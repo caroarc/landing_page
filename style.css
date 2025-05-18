@@ -49,3 +49,11 @@ h1 {margin: 0;
   font-size: 18px;
   color: #e5e7eB;
 }
+.footer{
+  background-color: #1F2937;
+  color: #e5e7eB;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  
+}
