@@ -40,10 +40,11 @@ body {
     justify-content: space-between;
     align-content: center;
 }
-h1{margin: 0;
-font-size: 48px;
-color: #f9faf8;
-weight:900}
+h1 {margin: 0;
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;}
+
 .subtext{
   font-size: 18px;
   color: #e5e7eB;
